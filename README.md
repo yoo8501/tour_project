@@ -1,5 +1,24 @@
 # tour_project
 
+<h4>
+<ul>
+<li>개발 기간 : 2019년 04월 15일 ~ 2019년 05월 14일</li>
+<li>개발 인원 : 5명</li>
+<li>개발 환경 : JavaEE, STS4, Spring, MyBatis, Mybatis Spring, Oracle, MariaDB</li>
+<li>개발 주제 : 사용자끼리 여행 정보를 공유하는 여행 커뮤니티 사이트</li>
+</ul>
+<hr> 
+</h4>
+<h3>프로그램 핵심 기술</h3>
+<ul>
+<li>공공데이터 포털에서 제공하는 오픈API 사용</li>
+<li>구글에서 제공하는 구글맵API 사용</li>
+<li>MVC패턴 중 모델2 및 Mybatis Spring 사용</li>
+<li>AOP를 사용하여 트랜잭션 및 로그인 처리</li> 
+<li>REST 원리를 사용하여 RESTful하게 웹사이트 제작</li>
+<li>Ajax를 사용하여 화면전환이 없는 데이터 통신 구현</li>
+</ul>
+<hr>
 <img src="https://postfiles.pstatic.net/MjAxOTA2MTdfMzAg/MDAxNTYwNzQyOTIyMzkw.AXqj3s3m6yMeEycYw1PwpnoGh8HdlLt5otUZ9NKiSjwg.l2su2CAkS7VQjDcJ8Qss3ptx9MKhiFgxEybA6bAJecog.PNG.qwea8501/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.PNG?type=w773" />
 <hr>
 <img src="https://postfiles.pstatic.net/MjAxOTA2MTdfMTA5/MDAxNTYwNzQyOTIyNTEw.0tSV5PTEfuWmXqEEaLu54xLBlNCozOp9KLUih7IElJkg.fisZfdrufPlOofsQk8d9tJMq_wmaiJvsWBfQheeaqJMg.PNG.qwea8501/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.PNG?type=w773" />
